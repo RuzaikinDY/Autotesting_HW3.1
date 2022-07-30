@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class CorrectformTest {
 
     private WebDriver driver;
-    private ChromeOptions options;
+
 
 
     @BeforeAll
